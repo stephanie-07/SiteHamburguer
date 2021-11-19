@@ -57,6 +57,19 @@ header .hero #formSearch input{
     border: 1px solid rgba(0, 0, 0, .3);
     text-align: center;
 }
+.hero-sobre{
+    height: 300px;
+    background-color: #111;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-sobre .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 main{
     margin: 20px 0px;
